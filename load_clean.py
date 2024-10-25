@@ -23,7 +23,7 @@ def load_csv(file_path):
     return df
 
 # Call the function and store the result in the gdp_data variable
-gdp_data = load_csv(r"C:/Users\psingh\Desktop\gdp_repo_structure\gdp_data.csv")
+gdp_data = load_csv(r"C:/Users\psingh\gdp_repo_structure\gdp_data.csv")
 
 #CLEANING
 
