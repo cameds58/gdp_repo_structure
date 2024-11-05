@@ -2,3 +2,4 @@
 .DS_Store
 *.pyc
 .mypy_cache/
+*.csv
